@@ -27,4 +27,3 @@ Funksioni Redo rikthen veprimin e fundit të zhbërë.
 javac -d out Action.java StepTest.java UndoRedoManager.java
 java -cp out StepTest
 ```
-````
